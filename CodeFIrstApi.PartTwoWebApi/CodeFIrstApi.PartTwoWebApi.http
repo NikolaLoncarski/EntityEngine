@@ -1,0 +1,6 @@
+@CodeFIrstApi.PartTwoWebApi_HostAddress = http://localhost:5211
+
+GET {{CodeFIrstApi.PartTwoWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

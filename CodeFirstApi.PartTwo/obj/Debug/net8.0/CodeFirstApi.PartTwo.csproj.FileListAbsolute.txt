@@ -134,3 +134,10 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\obj\Debug\net8.0\CodeFirstApi.PartTwo.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\obj\Debug\net8.0\CodeFirstApi.PartTwo.genruntimeconfig.cache
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\obj\Debug\net8.0\ref\CodeFirstApi.PartTwo.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\obj\Debug\net8.0\CodeFirstApi.PartTwo.sourcelink.json
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.pdb

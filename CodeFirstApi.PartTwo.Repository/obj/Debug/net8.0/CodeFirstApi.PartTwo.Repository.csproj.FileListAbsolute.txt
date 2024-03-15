@@ -1,0 +1,16 @@
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.deps.json
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.csproj.AssemblyReference.cache
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.AssemblyInfoInputs.cache
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.AssemblyInfo.cs
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.sourcelink.json
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirs.23046599.Up2Date
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\refint\CodeFirstApi.PartTwo.Repository.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\CodeFirstApi.PartTwo.Repository.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Repository\obj\Debug\net8.0\ref\CodeFirstApi.PartTwo.Repository.dll

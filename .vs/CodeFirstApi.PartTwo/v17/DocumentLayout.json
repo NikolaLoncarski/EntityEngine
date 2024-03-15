@@ -1,7 +1,108 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\repository\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\repository\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\repository\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\repository\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\interface\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\interface\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\interface\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\repository\\enginetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\repository\\enginetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\interface\\ienginetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\interface\\ienginetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\repository\\enginetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\repository\\enginetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\interface\\ienginetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\interface\\ienginetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\interface\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\interface\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo\\codefirstapi.parttwo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\codefirstapi.parttwo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.service\\codefirstapi.parttwo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|solutionrelative:codefirstapi.parttwo.service\\codefirstapi.parttwo.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\repository\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\repository\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.repository\\interface\\ienginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\interface\\ienginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\model\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\codefirstapi.parttwo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\codefirstapi.parttwo.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\codefirstapi.parttwo.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\codefirstapi.parttwo.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +119,330 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:54:14.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Interface\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\ICarRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Interface\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:47:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:48:10.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\CarService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Repository\\CarService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\CarService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Repository\\CarService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:55:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:48:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwFsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:49:12.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:14:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Program.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:17:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EngineService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:55:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEngineTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\IEngineTypeRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Interface\\IEngineTypeRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\IEngineTypeRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Interface\\IEngineTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:48:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240315143258_init.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Migrations\\20240315143258_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:32:58.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EngineTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\EngineTypeRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Repository\\EngineTypeRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\EngineTypeRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Repository\\EngineTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:48:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EngineTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\EngineTypeService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Repository\\EngineTypeService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\EngineTypeService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Repository\\EngineTypeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:56:15.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEngineTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\IEngineTypeService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineTypeService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\IEngineTypeService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:55:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:54:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CodeFirstApi.PartTwo",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+              "RelativeToolTip": "CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T12:41:10.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EngineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:48:15.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEngineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:48:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CodeFirstApi.PartTwo.Service",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T13:47:41.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240315125254_init.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:52:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:48:48.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EngineType.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:48:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CodeFirstApi.PartTwo.Data",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T12:46:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CodeFirstApi.PartTwo.Data",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T12:45:28.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Class1.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:44:54.475Z",
+              "EditorCaption": ""
             }
           ]
         }

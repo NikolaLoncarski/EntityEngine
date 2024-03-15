@@ -16,4 +16,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CodeFirstApi.PartTwo.Data\CodeFirstApi.PartTwo.Data.csproj" />
+    <ProjectReference Include="..\CodeFirstApi.PartTwo.Service\CodeFirstApi.PartTwo.Service.csproj" />
+  </ItemGroup>
+
 </Project>
