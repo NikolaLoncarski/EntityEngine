@@ -7,7 +7,9 @@ namespace CodeFirstApi.PartTwo.Service.Interface
         Task<EngineType> CreateEngineTypeService(EngineType engineType);
 
         Task<EngineType> GetEngineTypeService(int id);
-        Task UpdateEngineTypeService( EngineType engineType);
-        Task<EngineType> DeleteEngineTypeService(int id);
+        Task<int> UpdateEngineTypeService( EngineType engineType);
+        Task DeleteEngineTypeService(int id);
+        Task<List<EngineType>> GetAllEngineTypesService();
+
     }
 }

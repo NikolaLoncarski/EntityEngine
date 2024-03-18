@@ -26,18 +26,19 @@ namespace CodeFirstApi.PartTwo.Repository.Repository
             return engineType;
         }
 
-        public async Task<EngineType> DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
             var existingEngineType = await dbContext.EngineTypes.FirstOrDefaultAsync(x => x.Id == id);
 
-            if (existingEngineType == null)
-            {
-                return null;
-            }
-
+         
             dbContext.EngineTypes.Remove(existingEngineType);
             await dbContext.SaveChangesAsync();
-            return existingEngineType;
+        
+        }
+
+        public async Task<List<EngineType>> GetAllAsync()
+        {
+            return await dbContext.EngineTypes.ToListAsync();
         }
 
         public async Task<EngineType> GetAsync(int id)
@@ -45,9 +46,9 @@ namespace CodeFirstApi.PartTwo.Repository.Repository
             return await dbContext.EngineTypes.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public async Task UpdateAsync( EngineType engineType)
+        public async Task<int> UpdateAsync( EngineType engineType)
         {
-           dbContext.Entry(engineType).State = EntityState.Modified;
+          var updatedEngineType = dbContext.Entry(engineType).State = EntityState.Modified;
 
             try
             {
@@ -57,6 +58,8 @@ namespace CodeFirstApi.PartTwo.Repository.Repository
             {
                 throw;
             }
+            return engineType.Id    ;
+
         }
     }
 }

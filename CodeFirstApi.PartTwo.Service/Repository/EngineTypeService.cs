@@ -29,9 +29,14 @@ namespace CodeFirstApi.PartTwo.Service.Repository
            return await engineTypeRepository.CreateAsync(engineType);
         }
 
-        public async Task<EngineType> DeleteEngineTypeService(int id)
+        public async Task DeleteEngineTypeService(int id)
         {
-          return await engineTypeRepository.DeleteAsync(id);
+          await engineTypeRepository.DeleteAsync(id);
+        }
+
+        public async Task<List<EngineType>> GetAllEngineTypesService()
+        {
+            return await engineTypeRepository.GetAllAsync();
         }
 
         public Task<EngineType> GetEngineTypeService(int id)
@@ -39,9 +44,11 @@ namespace CodeFirstApi.PartTwo.Service.Repository
           return engineTypeRepository.GetAsync(id);
         }
 
-        public async Task UpdateEngineTypeService(EngineType engineType)
+        public async Task<int> UpdateEngineTypeService(EngineType engineType)
         {
-             await engineTypeRepository.UpdateAsync(engineType);
+          int updatedId=    await engineTypeRepository.UpdateAsync(engineType);
+
+            return updatedId;
         }
     }
 }

@@ -12,7 +12,10 @@ namespace CodeFirstApi.PartTwo.Service.Interface
         Task<Car> CreateCarService(Car car);
 
         Task<Car> GetCarService(int id);
-        Task UpdateCarService(Car car);
-        Task<Car> DeleteCarService(int id);
+        Task<int> UpdateCarService(Car car);
+        Task DeleteCarService(int id);
+        Task<List<Car>> GetAllCarService();
+
+
     }
 }

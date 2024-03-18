@@ -8,11 +8,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo", "Cod
 		{2645B6BC-CE36-453E-B47C-648B613D9CEA} = {2645B6BC-CE36-453E-B47C-648B613D9CEA}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi.PartTwo.Data", "CodeFirstApi.PartTwo.Data\CodeFirstApi.PartTwo.Data.csproj", "{2645B6BC-CE36-453E-B47C-648B613D9CEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Data", "CodeFirstApi.PartTwo.Data\CodeFirstApi.PartTwo.Data.csproj", "{2645B6BC-CE36-453E-B47C-648B613D9CEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi.PartTwo.Service", "CodeFirstApi.PartTwo.Service\CodeFirstApi.PartTwo.Service.csproj", "{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Service", "CodeFirstApi.PartTwo.Service\CodeFirstApi.PartTwo.Service.csproj", "{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi.PartTwo.Repository", "CodeFirstApi.PartTwo.Repository\CodeFirstApi.PartTwo.Repository.csproj", "{F9753CC9-D721-4747-A2F7-13A5F386FA61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Repository", "CodeFirstApi.PartTwo.Repository\CodeFirstApi.PartTwo.Repository.csproj", "{F9753CC9-D721-4747-A2F7-13A5F386FA61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

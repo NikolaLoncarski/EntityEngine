@@ -7,6 +7,6 @@
         public string Brand { get; set; }
         public int SerialNumber { get; set; }
 
-        public ICollection<EngineType> EngineTypes { get; set; } 
+        public ICollection<EngineType>? EngineTypes { get; set; } 
     }
 }

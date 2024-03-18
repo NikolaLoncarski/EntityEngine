@@ -1,6 +1,78 @@
 [
   {
     "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
+    "Method": "CreateCar",
+    "RelativePath": "api/Car/CreateCar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "CodeFirstApi.PartTwo.Model.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
+    "Method": "DeleteCar",
+    "RelativePath": "api/Car/DeleteCar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
+    "Method": "GetAllCars",
+    "RelativePath": "api/Car/GetAllCars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
     "Method": "GetAsync",
     "RelativePath": "api/Car/GetCar",
     "HttpMethod": "GET",
@@ -16,6 +88,280 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
+    "Method": "UpdateCar",
+    "RelativePath": "api/Car/UpdateCar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "CodeFirstApi.PartTwo.Model.Car",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineController",
+    "Method": "CreateEngine",
+    "RelativePath": "api/Engine/CreateEngine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "engine",
+        "Type": "CodeFirstApi.PartTwo.Model.Engine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Engine, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineController",
+    "Method": "DeleteEngine",
+    "RelativePath": "api/Engine/DeleteEngine",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Engine, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineController",
+    "Method": "GetAllEngines",
+    "RelativePath": "api/Engine/GetAllEngines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Engine, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Engine/GetEngine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Engine, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineController",
+    "Method": "UpdateEngine",
+    "RelativePath": "api/Engine/UpdateEngine",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "engine",
+        "Type": "CodeFirstApi.PartTwo.Model.Engine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
+    "Method": "CreateCar",
+    "RelativePath": "api/EngineType/CreateEngineType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "engineType",
+        "Type": "CodeFirstApi.PartTwo.Model.EngineType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
+    "Method": "DeleteEngineType",
+    "RelativePath": "api/EngineType/DeleteEngineType",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
+    "Method": "GetAllEngineTypes",
+    "RelativePath": "api/EngineType/GetAllEngineTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
+    "Method": "GetAsync",
+    "RelativePath": "api/EngineType/GetEngineType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
+    "Method": "UpdateCar",
+    "RelativePath": "api/EngineType/UpdateEngineType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "engineType",
+        "Type": "CodeFirstApi.PartTwo.Model.EngineType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

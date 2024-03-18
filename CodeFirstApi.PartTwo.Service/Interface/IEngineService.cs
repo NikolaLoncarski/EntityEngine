@@ -4,11 +4,12 @@ namespace CodeFirstApi.PartTwo.Interface
 {
     public interface IEngineService
     {
-        Task<Engine> CreateEngineService(Engine engine);
+        Task<int> CreateEngineService(Engine engine);
 
         Task<Engine> GetEngineService(int id);
-        Task UpdateEngineService( Engine engine);
-        Task<Engine> DeleteEngineService(int id);
+        Task<int> UpdateEngineService( Engine engine);
+        Task DeleteEngineService(int id);
+        Task<List<Engine>> GetAllEngineService();
 
     }
 }

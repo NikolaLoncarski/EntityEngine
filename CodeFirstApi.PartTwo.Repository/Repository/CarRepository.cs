@@ -26,18 +26,20 @@ namespace CodeFirstApi.PartTwo.Service.Repository
             return car;
         }
 
-        public async Task<Car> DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
             var carExists = await dbContext.Cars.FirstOrDefaultAsync(x => x.Id == id);
 
-            if (carExists == null)
-            {
-                return null;
-            }
+           
 
             dbContext.Cars.Remove(carExists);
             await dbContext.SaveChangesAsync();
-            return carExists;
+         
+        }
+
+        public async Task<List<Car>> GetAllAsync()
+        {
+            return await dbContext.Cars.ToListAsync();
         }
 
         public async Task<Car> GetAsync(int id)
@@ -45,9 +47,9 @@ namespace CodeFirstApi.PartTwo.Service.Repository
             return await dbContext.Cars.Include(e=>e.Engine).ThenInclude(et=>et.EngineTypes).FirstAsync(x => x.Id == id);
         }
 
-        public async Task UpdateAsync( Car car)
+        public async Task<int> UpdateAsync( Car car)
         {
-            dbContext.Entry(car).State = EntityState.Modified;
+           dbContext.Entry(car).State = EntityState.Modified;
 
             try
             {
@@ -57,6 +59,8 @@ namespace CodeFirstApi.PartTwo.Service.Repository
             {
                 throw;
             }
+
+            return car.Id;
         }
     }
 }

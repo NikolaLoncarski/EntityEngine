@@ -7,7 +7,8 @@ namespace CodeFirstApi.PartTwo.Repository.Interface
         Task<EngineType> CreateAsync(EngineType engineType);
 
         Task<EngineType> GetAsync(int id);
-        Task UpdateAsync( EngineType engineType);
-        Task<EngineType> DeleteAsync(int id);
+        Task<int> UpdateAsync( EngineType engineType);
+        Task DeleteAsync(int id);
+        Task<List<EngineType>> GetAllAsync();
     }
 }

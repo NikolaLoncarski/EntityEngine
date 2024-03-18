@@ -24,9 +24,14 @@ namespace CodeFirstApi.PartTwo.Service.Repository
           return await _carRepository.CreateAsync(car);
         }
 
-        public async Task<Car> DeleteCarService(int id)
+        public async Task DeleteCarService(int id)
         {
-       return await _carRepository.DeleteAsync(id);
+      await _carRepository.DeleteAsync(id);
+           }
+
+        public async Task<List<Car>> GetAllCarService()
+        {
+            return await _carRepository.GetAllAsync();
         }
 
         public async Task<Car> GetCarService(int id)
@@ -34,9 +39,11 @@ namespace CodeFirstApi.PartTwo.Service.Repository
            return await _carRepository.GetAsync(id);
         }
 
-        public async Task UpdateCarService(Car car)
+        public async Task<int> UpdateCarService(Car car)
         {
-            await _carRepository.UpdateAsync(car);
+          var updatedCar =  await _carRepository.UpdateAsync(car);
+
+            return updatedCar;
         }
     }
 }
