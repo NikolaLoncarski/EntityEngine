@@ -144,7 +144,7 @@ namespace CodeFirstApi.PartTwo.Tests
         }
 
         [Fact]
-        public async void GetCountries_ReturnsCollection()
+        public async void GetCars_ReturnsCollection()
         {
             // Arrange
            List<Car> cars = new List<Car>() {

@@ -35,7 +35,7 @@ namespace CodeFirstApi.PartTwo.Controllers
         }
         [HttpPost]
         [Route("CreateEngineType")]
-        public async Task<IActionResult> CreateCar(EngineType engineType)
+        public async Task<IActionResult> CreateEngineType(EngineType engineType)
         {
             var data = await _engineTypeService.CreateEngineTypeService(engineType);
             return Ok(data);
@@ -43,7 +43,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpPut]
         [Route("UpdateEngineType")]
-        public async Task<IActionResult> UpdateCar([FromBody] EngineType engineType)
+        public async Task<IActionResult> UpdateEngineType([FromBody] EngineType engineType)
         {
            var updatedEngine = await _engineTypeService.UpdateEngineTypeService(engineType);
             return Ok(updatedEngine);
@@ -53,7 +53,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpGet]
         [Route("GetAllEngineTypes")]
-        public async Task<ActionResult<IEnumerable<EngineType>>> GetAllEngineTypes()
+        public async Task<IActionResult> GetAllEngineTypes()
         {
             var allEngineTypes = await _engineTypeService.GetAllEngineTypesService();
             return Ok(allEngineTypes);
