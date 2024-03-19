@@ -1,4 +1,5 @@
-﻿using CodeFirstApi.PartTwo.Model;
+﻿using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using FluentValidation;
 using System;

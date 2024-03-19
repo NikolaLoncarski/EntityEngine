@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CodeFirstApi.PartTwo.Model;
+using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CodeFirstApi.PartTwo.Model
+namespace CodeFirstApi.PartTwo.Data.Model
 {
     public class Car
     {

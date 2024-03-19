@@ -1,4 +1,5 @@
 ﻿using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
 using Microsoft.EntityFrameworkCore;

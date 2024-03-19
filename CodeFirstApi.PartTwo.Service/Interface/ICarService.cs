@@ -1,4 +1,6 @@
-﻿using CodeFirstApi.PartTwo.Model;
+﻿using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;

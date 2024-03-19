@@ -9,13 +9,13 @@
     "Parameters": [
       {
         "Name": "car",
-        "Type": "CodeFirstApi.PartTwo.Model.Car",
+        "Type": "CodeFirstApi.PartTwo.Data.Model.Car",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Data.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -41,7 +41,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Data.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Data.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -85,17 +85,7 @@
         "IsRequired": false
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "CodeFirstApi.PartTwo.Controllers.CarController",
@@ -107,13 +97,13 @@
     "Parameters": [
       {
         "Name": "car",
-        "Type": "CodeFirstApi.PartTwo.Model.Car",
+        "Type": "CodeFirstApi.PartTwo.Data.Model.Car",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Data.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -237,7 +227,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Car, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.Engine, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

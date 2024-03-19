@@ -4,6 +4,8 @@
 
 
 
+using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Model;
 
 namespace CodeFirstApi.PartTwo.Interface

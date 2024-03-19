@@ -1,4 +1,6 @@
-﻿using CodeFirstApi.PartTwo.Model;
+﻿using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using CodeFirstApi.PartTwo.Service.Interface;
 using Microsoft.AspNetCore.Http;
@@ -22,7 +24,7 @@ namespace CodeFirstApi.PartTwo.Controllers
  
         [HttpGet]
         [Route("GetCar")]
-        public async Task<ActionResult<IEnumerable<Car>>> GetAsync(int id)
+        public async Task<IActionResult> GetCar(int id)
         {
             var data = await _carService.GetCarService(id);
             return Ok(data);
@@ -30,14 +32,14 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpDelete]
         [Route("DeleteCar")]
-        public async Task<ActionResult<IEnumerable<Car>>> DeleteCar(int id)
+        public async Task<IActionResult> DeleteCar(int id)
         {
             await _carService.DeleteCarService(id);
             return NoContent();
         }
         [HttpPost]
         [Route("CreateCar")]
-        public async Task<ActionResult<IEnumerable<Car>>> CreateCar(Car car)
+        public async Task<IActionResult> CreateCar(Car car)
         {
               
 
@@ -47,7 +49,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpPut]
         [Route("UpdateCar")]
-        public async Task<ActionResult<IEnumerable<Car>>> UpdateCar([FromBody] Car car)
+        public async Task<IActionResult> UpdateCar([FromBody] Car car)
         {
            var updatedCar = await _carService.UpdateCarService(car);
             return Ok(updatedCar);
@@ -58,7 +60,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpGet]
         [Route("GetAllCars")]
-        public async Task<ActionResult<IEnumerable<Car>>> GetAllCars()
+        public async Task<IActionResult> GetAllCars()
         {
             var allCars = await _carService.GetAllCarService();
 

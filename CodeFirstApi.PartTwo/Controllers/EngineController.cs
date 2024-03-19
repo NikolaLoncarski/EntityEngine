@@ -1,4 +1,5 @@
-﻿using CodeFirstApi.PartTwo.Interface;
+﻿using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Service.Interface;
 using Microsoft.AspNetCore.Http;
@@ -20,7 +21,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpGet]
         [Route("GetEngine")]
-        public async Task<ActionResult<IEnumerable<Engine>>> GetAsync(int id)
+        public async Task<IActionResult> GetAsync(int id)
         {
             var data = await _engineService.GetEngineService(id);
             return Ok(data);
@@ -28,14 +29,14 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpDelete]
         [Route("DeleteEngine")]
-        public async Task<ActionResult<IEnumerable<Engine>>> DeleteEngine(int id)
+        public async Task<IActionResult> DeleteEngine(int id)
         {
              await _engineService.DeleteEngineService(id);
             return Ok();
         }
         [HttpPost]
         [Route("CreateEngine")]
-        public async Task<ActionResult<IEnumerable<Engine>>> CreateEngine(Engine engine)
+        public async Task<IActionResult> CreateEngine(Engine engine)
         {
             var engineId = await _engineService.CreateEngineService(engine);
             return Ok(engineId);
@@ -43,7 +44,7 @@ namespace CodeFirstApi.PartTwo.Controllers
 
         [HttpPut]
         [Route("UpdateEngine")]
-        public async Task<ActionResult<IEnumerable<Car>>> UpdateEngine([FromBody] Engine engine)
+        public async Task<IActionResult> UpdateEngine([FromBody] Engine engine)
         {
           var updatedEngine =  await _engineService.UpdateEngineService(engine);
             return Ok(updatedEngine);
