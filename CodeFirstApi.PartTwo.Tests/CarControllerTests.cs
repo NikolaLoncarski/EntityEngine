@@ -102,7 +102,7 @@ namespace CodeFirstApi.PartTwo.Tests
         }
 
         [Fact]
-        public void DeleteCar_ValidId_ReturnsNoContent()
+        public async void DeleteCar_ValidId_ReturnsNoContent()
         {
             // Arrange
             Car car = new Car()
@@ -116,12 +116,12 @@ namespace CodeFirstApi.PartTwo.Tests
             };
 
             var mockRepository = new Mock<ICarService>();
-            mockRepository.Setup(x => x.DeleteCarService(1)).ReturnsAsync(car);
+            mockRepository.Setup(x => x.DeleteCarService(1));
 
-            var controller = new CountriesController(mockRepository.Object);
+            var controller = new CarController(mockRepository.Object);
 
             // Act
-            var actionResult = controller.DeleteCountry(1) as NoContentResult;
+            var actionResult = await controller.DeleteCar(1) as NoContentResult;
 
             // Assert
             Assert.NotNull(actionResult);
