@@ -1,11 +1,15 @@
 
 using CodeFirstApi.PartTwo.Data;
 using CodeFirstApi.PartTwo.Interface;
+using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Repository.Interface;
 using CodeFirstApi.PartTwo.Repository.Repository;
 using CodeFirstApi.PartTwo.Service.Interface;
 using CodeFirstApi.PartTwo.Service.Repository;
+using CodeFirstApi.PartTwo.Service.ValidationModel;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
+using System;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -26,7 +30,7 @@ builder.Services.AddTransient<IEngineService, EngineService>();
 builder.Services.AddTransient<IEngineTypeService, EngineTypeService>();
 
 
-
+builder.Services.AddTransient<IValidator<Car>, CarValidator>();
 
 
 builder.Services.AddEndpointsApiExplorer();

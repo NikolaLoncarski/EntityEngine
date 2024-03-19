@@ -1,13 +1,13 @@
 ﻿using CodeFirstApi.PartTwo.Data;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
+using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using CodeFirstApi.PartTwo.Service.Interface;
-using Microsoft.EntityFrameworkCore;
+using CodeFirstApi.PartTwo.Service.ValidationModel;
+using FluentValidation;
+using FluentValidation.Results;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace CodeFirstApi.PartTwo.Service.Repository
 {
@@ -15,13 +15,26 @@ namespace CodeFirstApi.PartTwo.Service.Repository
     {
 
         private readonly ICarRepository _carRepository;
-        public CarService (ICarRepository carRepository)
+        private IValidator<Car> _validator;
+        public CarService (ICarRepository carRepository, IValidator<Car> validator)
         {
             _carRepository = carRepository;
+            _validator = validator;
         }
         public async Task<Car> CreateCarService(Car car)
         {
-          return await _carRepository.CreateAsync(car);
+        
+          var result = await _validator.ValidateAsync(car);
+
+            if (!result.IsValid)
+            {
+                throw new ValidationException(result.Errors[0].ErrorMessage);
+              
+            }
+
+
+
+            return await _carRepository.CreateAsync(car);
         }
 
         public async Task DeleteCarService(int id)
@@ -31,6 +44,8 @@ namespace CodeFirstApi.PartTwo.Service.Repository
 
         public async Task<List<Car>> GetAllCarService()
         {
+
+
             return await _carRepository.GetAllAsync();
         }
 

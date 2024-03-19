@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7Oqqu6t/r38QL1D/412or5SxBp/USJrdE0AZqEOmcqbR/j+VfKWDM78sbTiXb3m2jKOgDktvQ5ZwqWKTza0ufQ==",
+  "dgSpecHash": "YNdeQbU8oEzXzuJAD30nZ2W4xpRyRTVzCZPiiGgHXDavzZmphX5GRpIZugCR56x5RAtB11Exp1Xq05mOdMUy/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

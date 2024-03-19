@@ -141,3 +141,5 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo\bin\Debug\net8.0\Newtonsoft.Json.dll

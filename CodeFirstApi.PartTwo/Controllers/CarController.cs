@@ -1,4 +1,5 @@
 ﻿using CodeFirstApi.PartTwo.Model;
+using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using CodeFirstApi.PartTwo.Service.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -38,6 +39,8 @@ namespace CodeFirstApi.PartTwo.Controllers
         [Route("CreateCar")]
         public async Task<ActionResult<IEnumerable<Car>>> CreateCar(Car car)
         {
+              
+
             var data = await _carService.CreateCarService(car);
             return Ok(data);
         }
@@ -51,11 +54,14 @@ namespace CodeFirstApi.PartTwo.Controllers
        
         }
 
+       
+
         [HttpGet]
         [Route("GetAllCars")]
         public async Task<ActionResult<IEnumerable<Car>>> GetAllCars()
         {
             var allCars = await _carService.GetAllCarService();
+
             return Ok(allCars);
 
         }

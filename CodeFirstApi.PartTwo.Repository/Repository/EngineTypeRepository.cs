@@ -41,14 +41,14 @@ namespace CodeFirstApi.PartTwo.Repository.Repository
             return await dbContext.EngineTypes.ToListAsync();
         }
 
-        public async Task<EngineType> GetAsync(int id)
+        public  async Task<EngineType> GetAsync(int id)
         {
             return await dbContext.EngineTypes.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<int> UpdateAsync( EngineType engineType)
         {
-          var updatedEngineType = dbContext.Entry(engineType).State = EntityState.Modified;
+         dbContext.Entry(engineType).State = EntityState.Modified;
 
             try
             {
