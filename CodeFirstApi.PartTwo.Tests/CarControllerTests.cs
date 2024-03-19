@@ -1,7 +1,4 @@
 ﻿
-using CodeFirstApi.PartTwo.Interface;
-
-using CodeFirstApi.PartTwo.Service.Interface;
 using Moq;
 using System;
 using System.Collections.Generic;
@@ -10,13 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CodeFirstApi.PartTwo;
-
-
-using CodeFirstApi.PartTwo.Data;
-using CodeFirstApi.PartTwo.Data.Model;
-using CodeFirstApi.PartTwo.Controllers;
 using Microsoft.AspNetCore.Mvc;
 using Xunit.Sdk;
+using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Controllers;
+using CodeFirstApi.PartTwo.Service.Interface;
+
 
 namespace CodeFirstApi.PartTwo.Tests
 {

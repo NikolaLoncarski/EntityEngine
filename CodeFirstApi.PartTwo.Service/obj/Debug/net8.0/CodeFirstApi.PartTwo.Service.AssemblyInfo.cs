@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstApi.PartTwo.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1935f47855b34950cb6ee4f437f4639c31061fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3fd50d3fa2e668a93428064a81f13240553e3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstApi.PartTwo.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstApi.PartTwo.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,12 +18,12 @@ namespace CodeFirstApi.PartTwo.Tests
         public async void GetEngine_ValidId_ReturnsObject()
         {
             // Arrange
-          Engine engine = new Engine()
+            Engine engine = new Engine()
             {
                 Id = 1,
-                
+
                 Year = 2020,
-          
+
                 Brand = "audi",
                 SerialNumber = 1234,
             };
@@ -180,7 +180,7 @@ namespace CodeFirstApi.PartTwo.Tests
         public async void PostEngine_ValidRequest_ReturnsObject()
         {
             // Arrange
-           Engine engine= new Engine()
+            Engine engine = new Engine()
             {
                 Id = 1,
 

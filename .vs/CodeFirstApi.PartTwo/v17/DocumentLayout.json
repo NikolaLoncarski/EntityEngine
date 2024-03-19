@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.tests\\enginetypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|solutionrelative:codefirstapi.parttwo.tests\\enginetypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo\\controllers\\enginetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\controllers\\enginetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.tests\\enginecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|solutionrelative:codefirstapi.parttwo.tests\\enginecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.tests\\carcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|solutionrelative:codefirstapi.parttwo.tests\\carcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.tests\\enginecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|solutionrelative:codefirstapi.parttwo.tests\\enginecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\codefirstapi.parttwo\\codefirstapi.parttwo.tests\\enginetypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699CC2F9-C993-4068-A944-50A2C7149A56}|CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj|solutionrelative:codefirstapi.parttwo.tests\\enginetypecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo\\controllers\\enginetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\controllers\\enginetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo.service\\externalapi\\carapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{F9753CC9-D721-4747-A2F7-13A5F386FA61}|CodeFirstApi.PartTwo.Repository\\CodeFirstApi.PartTwo.Repository.csproj|solutionrelative:codefirstapi.parttwo.repository\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo.data\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22DCC9D9-C72A-4D13-9067-EA36388D7167}|CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj|solutionrelative:codefirstapi.parttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2645B6BC-CE36-453E-B47C-648B613D9CEA}|CodeFirstApi.PartTwo.Data\\CodeFirstApi.PartTwo.Data.csproj|solutionrelative:codefirstapi.parttwo.data\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7B17DC8-CF85-4080-9B8D-2CB259F5ED2C}|CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\codefirstapi.parttwo.service\\repository\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,59 +166,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EngineTypeControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs*",
-              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs*",
-              "ViewState": "AQIAALIAAAAAAAAAAAAwwMIAAAAjAAAA",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\EngineTypeControllerTests.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAswMIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T13:45:25.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EngineControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs",
-              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAswMwAAAAAAAAA",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs*",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\EngineControllerTests.cs*",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T11:52:26.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CarControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs*",
-              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs*",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAkwJIAAAAhAAAA",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Tests\\CarControllerTests.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T10:08:36.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarValidator.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
-              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
-              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T09:37:19.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CarAPI.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ExternalAPI\\CarAPI.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ExternalAPI\\CarAPI.cs",
@@ -231,12 +218,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EngineTypeController.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs*",
-              "RelativeToolTip": "CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs*",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo\\Controllers\\EngineTypeController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAzwCUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T08:52:11.897Z",
@@ -244,7 +231,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:48:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:14:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarValidator.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
+              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
+              "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\ValidationModel\\CarValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:37:19.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CodeFirstApi.PartTwo.csproj",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
@@ -257,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EngineType.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\EngineType.cs",
@@ -270,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CarModel.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\CarModel.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\CarModel.cs",
@@ -283,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CarCollection.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\CarCollection.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\CarCollection.cs",
@@ -296,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RootObject.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\RootObject.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\RootObject.cs",
@@ -309,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Make.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\Make.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\ExternalAPI\\Model\\Make.cs",
@@ -322,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Data\\AppDbContext.cs",
@@ -335,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IEngineRepository.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Interface\\IEngineRepository.cs",
@@ -348,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IEngineService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineService.cs",
@@ -361,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "EngineRepository.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Repository\\EngineRepository.cs",
@@ -374,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "EngineService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Repository\\EngineService.cs",
@@ -387,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "EngineController.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\EngineController.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Controllers\\EngineController.cs",
@@ -400,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ICarService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Service\\Interface\\ICarService.cs",
@@ -413,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CarRepository.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Repository\\Repository\\CarRepository.cs",
@@ -426,20 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
-              "RelativeToolTip": "CodeFirstApi.PartTwo\\Controllers\\CarController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwC4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:14:52.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\Engine.cs",
@@ -452,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirstApi.PartTwo\\Program.cs",
@@ -461,19 +474,6 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwCEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T14:17:20.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
-              "RelativeDocumentMoniker": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
-              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
-              "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Model\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:48:50.216Z",
               "EditorCaption": ""
             },
             {
@@ -551,7 +551,8 @@
               "RelativeToolTip": "CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-18T09:39:00.955Z"
+              "WhenOpened": "2024-03-18T09:39:00.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -563,7 +564,8 @@
               "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Interface\\IEngineTypeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:55:02.141Z"
+              "WhenOpened": "2024-03-15T12:55:02.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -575,7 +577,8 @@
               "RelativeToolTip": "CodeFirstApi.PartTwo.Service\\Repository\\EngineTypeService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAmwCQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:56:15.492Z"
+              "WhenOpened": "2024-03-15T12:56:15.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -600,7 +603,8 @@
               "RelativeToolTip": "CodeFirstApi.PartTwo.Data\\Migrations\\20240315125254_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T12:52:54.49Z"
+              "WhenOpened": "2024-03-15T12:52:54.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
