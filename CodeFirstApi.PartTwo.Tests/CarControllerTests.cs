@@ -16,6 +16,7 @@ using CodeFirstApi.PartTwo.Data;
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Controllers;
 using Microsoft.AspNetCore.Mvc;
+using Xunit.Sdk;
 
 namespace CodeFirstApi.PartTwo.Tests
 {
@@ -73,7 +74,7 @@ namespace CodeFirstApi.PartTwo.Tests
         }
 
         [Fact]
-        public async void UpdateCar_ValidRequest_ReturnsObject()
+        public async void UpdateCar_ValidRequest_ReturnsValidId()
         {
             // Arrange
             Car car = new Car()
@@ -125,6 +126,94 @@ namespace CodeFirstApi.PartTwo.Tests
 
             // Assert
             Assert.NotNull(actionResult);
+        }
+
+        [Fact]
+        public async void DeleteCar_InvalidId_ReturnsNotFound()
+        {
+            // Arrange
+            var mockRepository = new Mock<ICarService>();
+
+            var controller = new CarController(mockRepository.Object);
+
+            // Act
+            var actionResult = await controller.DeleteCar(55456);
+
+            // Assert
+            Assert.NotNull(actionResult);
+        }
+
+        [Fact]
+        public async void GetCountries_ReturnsCollection()
+        {
+            // Arrange
+           List<Car> cars = new List<Car>() {
+                new Car()  {
+                    Id = 1,
+                Color = "Red",
+                Year = 2020,
+                ChasisNumber = 11234,
+                Brand = "audi",
+                Model = "Q8",
+                },
+                new Car()  {
+                       Id = 2,
+                Color = "Red",
+                Year = 2020,
+                ChasisNumber = 11234,
+                Brand = "audi",
+                Model = "Q8",
+                }
+            };
+
+            var mockRepository = new Mock<ICarService>();
+            mockRepository.Setup( x =>  x.GetAllCarService()).ReturnsAsync( cars) ;
+
+            var controller =  new CarController(mockRepository.Object);
+
+            // Act
+            var actionResult =await controller.GetAllCars() as OkObjectResult;
+
+            // Assert
+            Assert.NotNull(actionResult);
+            Assert.NotNull(actionResult.Value);
+
+            List<Car> listResult = (List<Car>)actionResult.Value;
+
+            for (int i = 0; i < listResult.Count; i++)
+            {
+                Assert.Equal(cars[i], listResult[i]);
+            }
+        }
+        [Fact]
+        public async void PostCar_ValidRequest_ReturnsObject()
+        {
+            // Arrange
+            Car car = new Car()
+            {
+              Id = 1,
+                Color = "Red",
+                Year = 2020,
+                ChasisNumber = 11234,
+                Brand = "audi",
+                Model = "Q8",
+            };
+
+            var mockRepository = new Mock<ICarService>();
+            mockRepository.Setup(x => x.CreateCarService(car)).ReturnsAsync(car);
+
+            var controller = new CarController(mockRepository.Object);
+
+            // Act
+            var actionResult = await controller.CreateCar(car) as OkObjectResult;
+
+            // Assert
+            Assert.NotNull(actionResult);
+
+         
+
+            Assert.NotNull(actionResult.Value);
+            Assert.Equal(car, actionResult.Value);
         }
     }
 }

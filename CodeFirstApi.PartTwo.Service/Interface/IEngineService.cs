@@ -1,10 +1,11 @@
-﻿using CodeFirstApi.PartTwo.Model;
+﻿using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Model;
 
-namespace CodeFirstApi.PartTwo.Interface
+namespace CodeFirstApi.PartTwo.Service.Interface
 {
     public interface IEngineService
     {
-        Task<int> CreateEngineService(Engine engine);
+        Task<Engine> CreateEngineService(Engine engine);
 
         Task<Engine> GetEngineService(int id);
         Task<int> UpdateEngineService( Engine engine);

@@ -1,4 +1,5 @@
 ﻿using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
 using Microsoft.EntityFrameworkCore;
@@ -21,11 +22,11 @@ namespace CodeFirstApi.PartTwo.Service.Repository
         {
             this.dbContext = dbContext;
         }
-        public async Task<int> CreateAsync(Engine engine)
+        public async Task<Engine> CreateAsync(Engine engine)
         {
             await dbContext.Engines.AddAsync(engine);
             await dbContext.SaveChangesAsync();
-            return engine.Id;
+            return engine;
         }
 
         public async Task DeleteAsync(int id)

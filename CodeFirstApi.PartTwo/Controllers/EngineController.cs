@@ -32,14 +32,14 @@ namespace CodeFirstApi.PartTwo.Controllers
         public async Task<IActionResult> DeleteEngine(int id)
         {
              await _engineService.DeleteEngineService(id);
-            return Ok();
+            return NoContent();
         }
         [HttpPost]
         [Route("CreateEngine")]
         public async Task<IActionResult> CreateEngine(Engine engine)
         {
-            var engineId = await _engineService.CreateEngineService(engine);
-            return Ok(engineId);
+            Engine newEngine = await _engineService.CreateEngineService(engine);
+            return Ok(newEngine);
         }
 
         [HttpPut]
@@ -52,7 +52,7 @@ namespace CodeFirstApi.PartTwo.Controllers
         }
         [HttpGet]
         [Route("GetAllEngines")]
-        public async Task<ActionResult<IEnumerable<Engine>>> GetAllEngines()
+        public async Task<ActionResult> GetAllEngines()
         {
             var allEngines = await _engineService.GetAllEngineService();
             return Ok(allEngines);

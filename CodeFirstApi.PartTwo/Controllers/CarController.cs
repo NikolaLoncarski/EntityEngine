@@ -43,8 +43,8 @@ namespace CodeFirstApi.PartTwo.Controllers
         {
               
 
-            var data = await _carService.CreateCarService(car);
-            return Ok(data);
+            Car newCar = await _carService.CreateCarService(car);
+            return Ok(newCar);
         }
 
         [HttpPut]

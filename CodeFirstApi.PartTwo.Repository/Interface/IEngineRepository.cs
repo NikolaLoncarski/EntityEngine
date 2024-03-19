@@ -1,10 +1,11 @@
-﻿using CodeFirstApi.PartTwo.Model;
+﻿using CodeFirstApi.PartTwo.Data.Model;
+using CodeFirstApi.PartTwo.Model;
 
 namespace CodeFirstApi.PartTwo.Interface
 {
     public interface IEngineRepository
     {
-        Task<int> CreateAsync(Engine engine);
+        Task<Engine> CreateAsync(Engine engine);
 
         Task<Engine> GetAsync(int id);
         Task<int> UpdateAsync( Engine engine);

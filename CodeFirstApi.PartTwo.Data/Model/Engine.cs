@@ -1,4 +1,6 @@
-﻿namespace CodeFirstApi.PartTwo.Model
+﻿using CodeFirstApi.PartTwo.Model;
+
+namespace CodeFirstApi.PartTwo.Data.Model
 {
     public class Engine
     {

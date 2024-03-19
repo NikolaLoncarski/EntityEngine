@@ -1,6 +1,8 @@
 ﻿using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
+using CodeFirstApi.PartTwo.Service.Interface;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -21,7 +23,7 @@ namespace CodeFirstApi.PartTwo.Service.Repository
             _engineRepository = engineRepository;
         }
 
-        public async Task<int> CreateEngineService(Engine engine)
+        public async Task<Engine> CreateEngineService(Engine engine)
         {
            var newEngine = await _engineRepository.CreateAsync(engine);
 
