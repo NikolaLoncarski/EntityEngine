@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeFirstApi.PartTwo.Data.Dto
+namespace CodeFirstApi.PartTwo.Service.Dto
 {
   public class CarRequestDTO
     {

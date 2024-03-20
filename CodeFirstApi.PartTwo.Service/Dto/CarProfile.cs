@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using CodeFirstApi.PartTwo.Data.Dto;
+
 using CodeFirstApi.PartTwo.Data.Model;
 
-namespace CodeFirstApi.PartTwo.Api.Dto
+namespace CodeFirstApi.PartTwo.Service.Dto
 {
     public class CarProfile:Profile
     {

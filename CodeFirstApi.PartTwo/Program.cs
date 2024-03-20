@@ -1,11 +1,12 @@
 
-using CodeFirstApi.PartTwo.Api.Dto;
+
 using CodeFirstApi.PartTwo.Data;
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Repository.Interface;
 using CodeFirstApi.PartTwo.Repository.Repository;
+using CodeFirstApi.PartTwo.Service.Dto;
 using CodeFirstApi.PartTwo.Service.Interface;
 using CodeFirstApi.PartTwo.Service.Repository;
 using CodeFirstApi.PartTwo.Service.ValidationModel;

@@ -1,8 +1,9 @@
 ﻿using AutoMapper;
 using CodeFirstApi.PartTwo.Data;
-using CodeFirstApi.PartTwo.Data.Dto;
+
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Model;
+using CodeFirstApi.PartTwo.Service.Dto;
 using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using CodeFirstApi.PartTwo.Service.Interface;
 using Microsoft.AspNetCore.Http;
@@ -45,9 +46,9 @@ namespace CodeFirstApi.PartTwo.Controllers
         [Route("CreateCar")]
         public async Task<IActionResult> CreateCar(CarRequestDTO carRequestDTO)
         {
-            var car = _mapper.Map<Car>(carRequestDTO);
+           
 
-            Car newCar = await _carService.CreateCarService(car);
+            Car newCar = await _carService.CreateCarService(carRequestDTO);
             return Ok(newCar);
         }
 

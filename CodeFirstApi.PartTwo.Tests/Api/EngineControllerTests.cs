@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeFirstApi.PartTwo.Tests
+namespace CodeFirstApi.PartTwo.Tests.Api
 {
     public class EngineControllerTests
     {

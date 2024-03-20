@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeFirstApi.PartTwo.Tests
+namespace CodeFirstApi.PartTwo.Tests.Api
 {
     public class EngineTypeControllerTests
     {
@@ -22,8 +22,8 @@ namespace CodeFirstApi.PartTwo.Tests
             {
                 Id = 1,
 
-               Model="Electric",
-               Name="X1123"
+                Model = "Electric",
+                Name = "X1123"
             };
 
 

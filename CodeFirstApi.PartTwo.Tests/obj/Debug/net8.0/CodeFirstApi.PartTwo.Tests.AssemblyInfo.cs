@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFirstApi.PartTwo.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d85420630521a1364be6fe008134dc1a802c7e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8937eb583a6297af9ed74731ba08542363359185")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFirstApi.PartTwo.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFirstApi.PartTwo.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -159,3 +159,4 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.exe
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\AutoMapper.dll

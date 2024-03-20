@@ -1,7 +1,10 @@
-﻿using CodeFirstApi.PartTwo.Data;
+﻿using AutoMapper;
+using CodeFirstApi.PartTwo.Data;
+
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
 using CodeFirstApi.PartTwo.Model;
+using CodeFirstApi.PartTwo.Service.Dto;
 using CodeFirstApi.PartTwo.Service.ExternalAPI;
 using CodeFirstApi.PartTwo.Service.Interface;
 using CodeFirstApi.PartTwo.Service.ValidationModel;
@@ -17,15 +20,21 @@ namespace CodeFirstApi.PartTwo.Service.Repository
 
         private readonly ICarRepository _carRepository;
         private IValidator<Car> _validator;
-        public CarService (ICarRepository carRepository, IValidator<Car> validator)
+        private readonly IMapper _mapper;
+        public CarService (ICarRepository carRepository, IValidator<Car> validator,IMapper mapper)
         {
             _carRepository = carRepository;
             _validator = validator;
-        }
-        public async Task<Car> CreateCarService(Car car)
+            _mapper = mapper;
+
+
+     
+    }
+        public async Task<Car> CreateCarService(CarRequestDTO carRequestDTO)
         {
-        
-          var result = await _validator.ValidateAsync(car);
+            var car = _mapper.Map<Car>(carRequestDTO);
+
+            var result = await _validator.ValidateAsync(car);
 
             if (!result.IsValid)
             {
