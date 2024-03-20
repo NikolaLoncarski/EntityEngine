@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CodeFirstApi.PartTwo/1.0.0": {
+      "CodeFirstApi.PartTwo.Api/1.0.0": {
         "dependencies": {
           "CodeFirstApi.PartTwo.Data": "1.0.0",
           "CodeFirstApi.PartTwo.Service": "1.0.0",
@@ -17,7 +17,7 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "CodeFirstApi.PartTwo.dll": {}
+          "CodeFirstApi.PartTwo.Api.dll": {}
         }
       },
       "Azure.Core/1.35.0": {
@@ -957,7 +957,7 @@
     }
   },
   "libraries": {
-    "CodeFirstApi.PartTwo/1.0.0": {
+    "CodeFirstApi.PartTwo.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

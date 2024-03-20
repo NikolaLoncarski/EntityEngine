@@ -1,4 +1,5 @@
 
+using CodeFirstApi.PartTwo.Api.Dto;
 using CodeFirstApi.PartTwo.Data;
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Interface;
@@ -21,6 +22,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddControllers().AddJsonOptions(x =>
                 x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+
+builder.Services.AddAutoMapper(typeof(CarProfile));
+
 
 builder.Services.AddTransient<ICarRepository, CarRepository>();
 builder.Services.AddTransient<IEngineRepository, EngineRepository>();

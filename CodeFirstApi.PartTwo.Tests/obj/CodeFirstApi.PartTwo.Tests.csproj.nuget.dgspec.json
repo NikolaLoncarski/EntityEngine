@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -129,6 +133,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -202,6 +210,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -261,8 +273,8 @@
               "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj": {
                 "projectPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Service\\CodeFirstApi.PartTwo.Service.csproj"
               },
-              "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj": {
-                "projectPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj"
+              "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj": {
+                "projectPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj"
               }
             }
           }
@@ -282,6 +294,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -327,12 +343,12 @@
         }
       }
     },
-    "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj": {
+    "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
-        "projectName": "CodeFirstApi.PartTwo",
-        "projectPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+        "projectUniqueName": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj",
+        "projectName": "CodeFirstApi.PartTwo.Api",
+        "projectPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj",
         "packagesPath": "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\obj\\",
         "projectStyle": "PackageReference",
@@ -375,6 +391,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"

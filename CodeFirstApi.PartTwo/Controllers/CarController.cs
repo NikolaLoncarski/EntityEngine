@@ -1,4 +1,6 @@
-﻿using CodeFirstApi.PartTwo.Data;
+﻿using AutoMapper;
+using CodeFirstApi.PartTwo.Data;
+using CodeFirstApi.PartTwo.Data.Dto;
 using CodeFirstApi.PartTwo.Data.Model;
 using CodeFirstApi.PartTwo.Model;
 using CodeFirstApi.PartTwo.Service.ExternalAPI;
@@ -13,12 +15,14 @@ namespace CodeFirstApi.PartTwo.Controllers
     public class CarController : ControllerBase
     {
 
+        private readonly IMapper _mapper;
 
         private readonly ICarService _carService;
 
-        public CarController (ICarService carService)
+        public CarController (ICarService carService, IMapper mapper)
         {
             _carService = carService;
+            _mapper = mapper;
         }
 
  
@@ -39,9 +43,9 @@ namespace CodeFirstApi.PartTwo.Controllers
         }
         [HttpPost]
         [Route("CreateCar")]
-        public async Task<IActionResult> CreateCar(Car car)
+        public async Task<IActionResult> CreateCar(CarRequestDTO carRequestDTO)
         {
-              
+            var car = _mapper.Map<Car>(carRequestDTO);
 
             Car newCar = await _carService.CreateCarService(car);
             return Ok(newCar);

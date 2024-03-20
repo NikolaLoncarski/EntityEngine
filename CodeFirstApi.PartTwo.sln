@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo", "CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.csproj", "{22DCC9D9-C72A-4D13-9067-EA36388D7167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Api", "CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Api.csproj", "{22DCC9D9-C72A-4D13-9067-EA36388D7167}"
 	ProjectSection(ProjectDependencies) = postProject
 		{2645B6BC-CE36-453E-B47C-648B613D9CEA} = {2645B6BC-CE36-453E-B47C-648B613D9CEA}
 	EndProjectSection
@@ -14,7 +14,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Repository", "CodeFirstApi.PartTwo.Repository\CodeFirstApi.PartTwo.Repository.csproj", "{F9753CC9-D721-4747-A2F7-13A5F386FA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi.PartTwo.Tests", "CodeFirstApi.PartTwo.Tests\CodeFirstApi.PartTwo.Tests.csproj", "{699CC2F9-C993-4068-A944-50A2C7149A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstApi.PartTwo.Tests", "CodeFirstApi.PartTwo.Tests\CodeFirstApi.PartTwo.Tests.csproj", "{699CC2F9-C993-4068-A944-50A2C7149A56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

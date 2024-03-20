@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "c1F5pW3f5sjYCPLMmPR5k+1p86vAJc1ciFklhd/SmYI=",
-  "Source": "CodeFirstApi.PartTwo",
-  "BasePath": "_content/CodeFirstApi.PartTwo",
+  "Hash": "YQ8a1VMZKdK5TGk6MO+tje2Yg2yWMZQb2xuKqDV2XdU=",
+  "Source": "CodeFirstApi.PartTwo.Api",
+  "BasePath": "_content/CodeFirstApi.PartTwo.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

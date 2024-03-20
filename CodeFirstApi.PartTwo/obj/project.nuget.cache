@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vo7fuOCHxGtU2YQw312ZvrEBeZzkdpl4pRMdq5ACUxVxtpy+uDr8X5HrejJg3HW7cGCqNh3ZQiaVBxkUjdo1vw==",
+  "dgSpecHash": "0UxeuGi7W0neSlYZHMKT54P9uSUTK+iUSJNLnehScQdpRy46ErxywJWRRwzgdYRkF6BSkuu0YUc4rE7b1NHCHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.csproj",
+  "projectFilePath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

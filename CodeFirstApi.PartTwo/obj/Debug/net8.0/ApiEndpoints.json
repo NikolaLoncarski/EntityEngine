@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "car",
-        "Type": "CodeFirstApi.PartTwo.Data.Model.Car",
+        "Name": "carRequestDTO",
+        "Type": "CodeFirstApi.PartTwo.Data.Dto.CarRequestDTO",
         "IsRequired": true
       }
     ],
@@ -149,7 +149,7 @@
   },
   {
     "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
-    "Method": "CreateCar",
+    "Method": "CreateEngineType",
     "RelativePath": "api/EngineType/CreateEngineType",
     "HttpMethod": "POST",
     "IsController": true,
@@ -187,17 +187,7 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CodeFirstApi.PartTwo.Model.EngineType, CodeFirstApi.PartTwo.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
@@ -217,7 +207,7 @@
   },
   {
     "ContainingType": "CodeFirstApi.PartTwo.Controllers.EngineTypeController",
-    "Method": "UpdateCar",
+    "Method": "UpdateEngineType",
     "RelativePath": "api/EngineType/UpdateEngineType",
     "HttpMethod": "PUT",
     "IsController": true,

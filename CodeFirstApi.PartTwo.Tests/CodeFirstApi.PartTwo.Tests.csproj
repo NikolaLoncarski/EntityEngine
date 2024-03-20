@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
@@ -21,7 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CodeFirstApi.PartTwo.Data\CodeFirstApi.PartTwo.Data.csproj" />
     <ProjectReference Include="..\CodeFirstApi.PartTwo.Service\CodeFirstApi.PartTwo.Service.csproj" />
-    <ProjectReference Include="..\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.csproj" />
+    <ProjectReference Include="..\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>

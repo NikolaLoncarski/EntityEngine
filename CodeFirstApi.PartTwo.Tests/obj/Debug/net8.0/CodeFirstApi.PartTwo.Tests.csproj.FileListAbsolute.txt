@@ -6,11 +6,8 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirstApi.PartTwo.Tests.csproj.CoreCompileInputs.cache
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirstApi.PartTwo.Tests.sourcelink.json
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\testhost.dll
-C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.deps.json
-C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.runtimeconfig.json
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.exe
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
@@ -146,12 +143,10 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.dll
-C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.dll
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Data.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Service.pdb
-C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Repository.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirs.2746E861.Up2Date
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirstApi.PartTwo.Tests.dll
@@ -159,3 +154,8 @@ C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirstApi.PartTwo.Tests.pdb
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\CodeFirstApi.PartTwo.Tests.genruntimeconfig.cache
 C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\obj\Debug\net8.0\ref\CodeFirstApi.PartTwo.Tests.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.deps.json
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.runtimeconfig.json
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.exe
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.dll
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\CodeFirstApi.PartTwo\CodeFirstApi.PartTwo.Tests\bin\Debug\net8.0\CodeFirstApi.PartTwo.Api.pdb

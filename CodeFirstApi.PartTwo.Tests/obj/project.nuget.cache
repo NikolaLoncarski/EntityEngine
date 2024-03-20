@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d+LKM3lkSJNGZJw6HhCBkMp8EwzwHee3kkO3Twb16Qxo1+nIOOxYCDNJh+3c2jxIZXI6j3DuVo9M2MGInvYF6A==",
+  "dgSpecHash": "/CkiTUFn9a2iBWni1FmjfbMO+SDA1k6wXAq49kZ54EVU+xSyeFi7yEI7NAELs9O9kPCm9k0H5EsDKmSrca+jFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\CodeFirstApi.PartTwo\\CodeFirstApi.PartTwo.Tests\\CodeFirstApi.PartTwo.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\NikolaLoncarski\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
